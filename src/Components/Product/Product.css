@@ -1,0 +1,24 @@
+.productDetails{
+    background-color: black;
+    color: goldenrod;
+    margin: 15px;
+    padding: 15px;
+}
+.image{
+    width: 50%;
+    height: 25%;
+}
+.btn{
+    color: black;
+    background-color: gold;
+    padding: 10px 5px;
+    margin-right: 5px;
+    font-weight: 800;
+    border-radius: 10px;
+}
+.description{
+    text-align: justify;
+}
+.title{
+    text-align: center;  
+}
